@@ -2,7 +2,7 @@ class SvtAv1 < Formula
   desc "AV1 encoder"
   homepage "https://gitlab.com/AOMediaCodec/SVT-AV1"
   url "https://gitlab.com/AOMediaCodec/SVT-AV1/-/archive/v1.8.0/SVT-AV1-v1.8.0.tar.bz2"
-  sha256 "a7a8940a310a975ea953397ccb5b4167daf06e5e933ada6610fcb5db99491054"
+  sha256 "41c7183be99a2c72656b15fba4005e46c998cd346418503ed296c5abe6482e47"
   license "BSD-3-Clause"
   head "https://gitlab.com/AOMediaCodec/SVT-AV1.git", branch: "master"
 
